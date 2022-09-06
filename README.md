@@ -13,11 +13,17 @@ Finally by clicking on any business on the map the user is brought to its detail
 This web app was built with:
 
 ReactJS
+
 Axios
+
 Material UI
+
 Rapid API
+
 react-google-maps/api
+
 google-map-react
+
 Note: For the app to work properly please allow it to access your location when prompted to.
 
 
