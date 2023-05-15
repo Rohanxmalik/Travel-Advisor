@@ -14,6 +14,8 @@ This web app was built with:
 
 ReactJS
 
+MUI
+
 Axios
 
 Material UI
